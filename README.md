@@ -6,7 +6,7 @@
 <h1>DOWNLOAD PICTURES</h1>
 </html>
 <html>
-  <a href="playeriscool-1.png" download>Download player img</a>
+  <a href="playeris2cool-1.png" download>Download player img</a>
 </html>
 <html>
   <a href="grassiscool-1.png" download>Download grass img</a>
