@@ -20,7 +20,11 @@
 </html> 
 <html>
   <p>after downloading all the files put them all into a local file and run the exe</p>
+</html>
+<html>
   <h1>credits</h1>
+</html>
+<html>
   <p>python 3, pycharm, pyinstaller, pygame</p>
 </html>
 
