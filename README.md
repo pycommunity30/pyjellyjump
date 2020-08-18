@@ -18,4 +18,9 @@
 <html>
   <a href="grassiscool-1.png" download>Download grass img</a>
 </html> 
+<html>
+  <p>after downloading all the files put them all into a local file and run the exe</p>
+  <h1>credits</h1>
+  <p>python 3, pycharm, pyinstaller, pygame</p>
+</html>
 
