@@ -3,7 +3,9 @@
   <video src="platformervid.mp4" poster="yeet.jpg" width="480" controls>
   </video>
 </html>
-
+<html>
+  <h1>Download code</h1>
+</html>
 <html>
   <a href="platformer.exe" download>Download code</a>
 </html>
