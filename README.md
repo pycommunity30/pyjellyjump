@@ -4,6 +4,12 @@
   </video>
 </html>
 <html>
+  <style>
+body {
+  background-image: url('mygamelogo.png');
+}
+</style>
+<html>
   <h1>Download code</h1>
 </html>
 <html>
