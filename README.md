@@ -3,11 +3,12 @@
   <video src="platformervid.mp4" poster="yeet.jpg" width="480" controls>
   </video>
 </html>
-
-<head>
-  <script data-ad-client="ca-pub-9568406816158293" async 
-  src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-</head>
+<html>
+  <head>
+    <script data-ad-client="ca-pub-9568406816158293" async 
+    src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+  </head>
+</html>
 
 <html>
   <h1>Download code</h1>
