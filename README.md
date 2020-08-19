@@ -6,7 +6,7 @@
 <html>
   <style>
 body {
-  background-image: url('mygamelogo.png');
+  background-image: url('mylogodark.jpg');
 }
 </style>
 <html>
