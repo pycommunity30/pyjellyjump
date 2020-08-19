@@ -4,11 +4,9 @@
   </video>
 </html>
 <html>
-  <style>
-body {
-  background-image: url('mylogodark.jpg');
-}
-</style>
+  <script data-ad-client="ca-pub-9568406816158293" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+</html>
+
 <html>
   <h1>Download code</h1>
 </html>
