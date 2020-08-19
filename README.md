@@ -5,7 +5,8 @@
 </html>
 
 <html>
-  <script data-ad-client="ca-pub-9568406816158293" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+  <script data-ad-client="ca-pub-9568406816158293" async 
+  src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 </html>
 
 <html>
