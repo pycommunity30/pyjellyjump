@@ -1,13 +1,13 @@
 <p>pyjellyjump is a game made with python 3/pygame, a still-in-dev, great for structures of many platformer games, there may be a few bugs but you can report it @jerrbearis2cool@gmail.com suport would be great for a developing game</p>
-<head>
+<html>
   <video src="platformervid.mp4" poster="yeet.jpg" width="480" controls>
   </video>
-</head>
+</html>
 
-<html>
+<head>
   <script data-ad-client="ca-pub-9568406816158293" async 
   src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-</html>
+</head>
 
 <html>
   <h1>Download code</h1>
