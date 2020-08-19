@@ -12,6 +12,7 @@
 
 <html>
   <h1>Download code</h1>
+  <div style="background-image: url('word.pdf');">
 </html>
 <html>
   <a href="platformer.exe" download>Download code</a>
