@@ -45,7 +45,7 @@ body {
 </html>
 <html>
   <h1>Wait game by Kevcore</h1>
-  <p>a death race/snake game</p>
+  <p>a death race/snake game.</p>
   <a href="https://pycommunity30.github.io/kevcore-wait-game/">link to the game</a>
 </html>
   
