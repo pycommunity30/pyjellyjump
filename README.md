@@ -3,6 +3,11 @@
   <video src="platformervid.mp4" poster="yeet.jpg" width="480" controls>
   </video>
 </html>
+<style>
+body {
+  background-image: url('img_girl.jpg');
+}
+</style>
 <head>
   <script data-ad-client="ca-pub-9568406816158293" async 
   src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
