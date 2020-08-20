@@ -43,3 +43,8 @@ body {
 <html>
   <p>python 3, pycharm, pyinstaller, pygame</p>
 </html>
+<html>
+  <h1>Wait game by Kevcore</h1>
+  <a href="https://pycommunity30.github.io/kevcore-wait-game/">link to the game</a>
+</html>
+  
