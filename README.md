@@ -2,7 +2,7 @@
 <html>
   <video src="platformervid.mp4" poster="yeet.jpg" width="480" controls>
   </video>
-  <img src="mygamelogo.png" alt="logo" width="500" height="600">
+  <img src="mygamelogo.png" alt="logo" width="50" height="60">
 </html>
 <html>
 <style>
