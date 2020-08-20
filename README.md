@@ -3,7 +3,7 @@
   <img src="mygamelogo.png" alt="logo" width="3000" height="4000">
 </html>
 <html>
-<style>
+<style> 
 body {
   background-image: url('background.jpg');
 }
