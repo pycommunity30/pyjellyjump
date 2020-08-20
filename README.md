@@ -1,4 +1,4 @@
-<p>pyjellyjump is a game made with python 3/pygame, a still-in-dev, great for structures of many platformer games, there may be a few bugs but you can report it @jerrbearis2cool@gmail.com suport would be great for a developing game, phone version coming soon</p>
+<p>pyjellyjump is a game made with python 3/pygame, a still-in-dev, great for structures of many platformer games, there may be a few bugs, you can report it @jerrbearis2cool@gmail.com suport would be great for a developing game, phone version coming soon</p>
 <html>
   <img src="mygamelogo.png" alt="logo" width="200" height="200">
 </html>
