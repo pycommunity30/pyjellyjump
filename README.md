@@ -1,6 +1,6 @@
 <p>pyjellyjump is a game made with python 3/pygame, a still-in-dev, great for structures of many platformer games, there may be a few bugs but you can report it @jerrbearis2cool@gmail.com suport would be great for a developing game, phone version coming soon</p>
 <html>
-  <img src="mygamelogo.png" alt="logo" width="3000" height="4000">
+  <img src="mygamelogo.png" alt="logo" width="1000" height="2000">
 </html>
 <html>
 <style> 
@@ -13,7 +13,6 @@ body {
   <script data-ad-client="ca-pub-9568406816158293" async 
   src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 </head>
-
 <html>
   <h1>full edition(1.0.0)</h1>
   <h3>Download code</h3>
