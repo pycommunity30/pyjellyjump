@@ -9,8 +9,8 @@
 </head>
 
 <html>
-  <div style="background-image: url('word.pdf');">
-  <h1>Download code</h1>
+  <h1>full edition(1.0.0)</h1>
+  <h3>Download code</h3>
 </html>
 <html>
   <a href="platformer.exe" download>Download code</a>
