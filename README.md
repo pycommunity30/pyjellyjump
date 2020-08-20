@@ -2,6 +2,7 @@
 <html>
   <video src="platformervid.mp4" poster="yeet.jpg" width="480" controls>
   </video>
+  <img src="mygamelogo.png" alt="Girl in a jacket">
 </html>
 <html>
 <style>
