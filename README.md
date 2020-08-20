@@ -56,7 +56,6 @@ body {
   }
 
   body {
-    background: gray;
     display: flex;
     align-items: center;
     justify-content: center;
