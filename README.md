@@ -43,6 +43,8 @@ body {
 <html>
   <p>python 3, pycharm, pyinstaller, pygame</p>
 </html>
+<html>
+  <h1>Wait game by kevcore</h1>
 <!DOCTYPE html>
 <html>
 <head>
@@ -214,5 +216,6 @@ document.addEventListener('keydown', function(e) {
 requestAnimationFrame(loop);
 </script>
 </body>
+</html>
 </html>
 
