@@ -31,7 +31,7 @@
   <h1>One download version(0.0.0)</h1>
 </html>
 <html>
-  <h1>Python version</h1>
+  <h1>Python version(0.0.0)</h1>
 <html>
   <h1>credits</h1>
 </html>
