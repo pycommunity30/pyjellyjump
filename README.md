@@ -16,7 +16,7 @@
   <a href="platformer.exe" download>Download code</a>
 </html>
 <html>
-<h1>DOWNLOAD PICTURES</h1>
+<h3>DOWNLOAD PICTURES</h3>
 </html>
 <html>
   <a href="playeris2cool-1.png" download>Download player img</a>
