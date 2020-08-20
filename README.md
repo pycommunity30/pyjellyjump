@@ -5,7 +5,7 @@
 <html>
 <style> 
 body {
-  background-image: url('background.jpg');
+  background-image: url('background.jpg'); 
 }
 </style>
 </html>
