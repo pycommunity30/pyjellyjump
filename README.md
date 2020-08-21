@@ -44,7 +44,8 @@ body {
   <p>python 3, pycharm IDE, pyinstaller for compiling from python to exe, pygame the game dev module</p>
 </html>
 <html>
-  <h1>Wait game by Kevcore</h1>
+  <h1>More by pycommunity</h1>
+  <h3>Wait game by Kevcore</h3>
   <p>a death race/snake game.</p>
   <a href="https://pycommunity30.github.io/kevcore-wait-game/">link to the game</a>
 </html>
