@@ -18,11 +18,13 @@
   <h1>full edition(1.0.0)</h1>
   <h3>Download code</h3>
 </html>
+
 <html>
   <a href="platformer.exe" download>
 </html>
+
 <html>
-<h3>Download pictures</h3>
+  <h3>Download pictures</h3>
 </html>
 <html>
   <a href="playeris2cool-1.png" download>Download player img</a>
