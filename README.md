@@ -1,3 +1,4 @@
+
 <p>pyjellyjump is a game made with python 3/pygame, a still-in-dev, great for structures of many platformer games, there may be a few bugs, you can report it @jerrbearis2cool@gmail.com suport would be great for a developing game, phone version coming soon</p>
 <html>
   <img src="mygamelogo.png" alt="logo" width="200" height="200"> 
@@ -21,7 +22,7 @@ body {
   <a href="https://pycommunity30.github.io/exe/">Download code</a>
 </html>
 <html>
-<h3>DOWNLOAD PICTURES</h3>
+<h3>Download pictures</h3>
 </html>
 <html>
   <a href="playeris2cool-1.png" download>Download player img</a>
