@@ -41,7 +41,7 @@ body {
   <h1>credits</h1>
 </html>
 <html>
-  <p>python 3, pycharm IDE, pyinstaller for compiling from python to exe, pygame the game dev module</p>
+  <p>python 3, pycharm ,IDE, pyinstaller for compiling from python to exe, pygame the game dev module</p>
 </html>
 <html>
   <h1>More by pycommunity</h1>
