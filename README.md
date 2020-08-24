@@ -20,7 +20,6 @@ body {
 </html>
 <html>
   <a href="platformer.exe" download>
-  </a>
 </html>
 <html>
 <h3>Download pictures</h3>
