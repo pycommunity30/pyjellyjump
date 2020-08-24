@@ -4,11 +4,11 @@
   <img src="mygamelogo.png" alt="logo" width="200" height="200"> 
 </html>
 <html>
-<style> 
-body {
-  background-image: url('background.jpg'); 
-}
-</style>
+  <style> 
+  body {
+    background-image: url('background.jpg'); 
+  }
+  </style>
 </html>
 <head>
   <script data-ad-client="ca-pub-9568406816158293" async 
