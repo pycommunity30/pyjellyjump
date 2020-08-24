@@ -19,7 +19,7 @@ body {
   <h3>Download code</h3>
 </html>
 <html>
-  <a href="https://pycommunity30.github.io/exe/">Download code</a>
+  <a href="platformer.exe"download>Download code</a>
 </html>
 <html>
 <h3>Download pictures</h3>
