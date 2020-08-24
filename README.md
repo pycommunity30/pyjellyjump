@@ -18,7 +18,7 @@ body {
   <h3>Download code</h3>
 </html>
 <html>
-  <a href="https://pycommunity30.github.io/exe/">download code</a>
+  <a href="https://pycommunity30.github.io/exe/">Download code</a>
 </html>
 <html>
 <h3>DOWNLOAD PICTURES</h3>
